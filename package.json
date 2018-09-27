@@ -5,7 +5,7 @@
   "main": "loadingjs.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shenglian/loadingjs.git"
+    "url": "git+https://github.com/Shenglian/loadingjs.git"
   },
   "keywords": [
     "loadingjs",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Shenglian/loadingjs",
   "files": [
     "loadingjs.js"
-  ]
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
