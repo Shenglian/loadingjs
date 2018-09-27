@@ -1,23 +1,23 @@
 {
-  "name": "loading",
+  "name": "loadingjs",
   "version": "1.0.0",
-  "description": "JavaScript loading",
-  "main": "loading.js",
+  "description": "JavaScript loadingjs",
+  "main": "loadingjs.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shenglian/loading.git"
+    "url": "https://github.com/Shenglian/loadingjs.git"
   },
   "keywords": [
-    "loading",
+    "loadingjs",
     "javascript"
   ],
   "author": "Sheng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shenglian/loading/issues"
+    "url": "https://github.com/Shenglian/loadingjs/issues"
   },
-  "homepage": "https://github.com/Shenglian/loading",
+  "homepage": "https://github.com/Shenglian/loadingjs",
   "files": [
-    "loading.js"
+    "loadingjs.js"
   ]
 }
