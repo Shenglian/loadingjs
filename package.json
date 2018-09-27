@@ -2,7 +2,7 @@
   "name": "loadingjs",
   "version": "1.0.0",
   "description": "JavaScript loadingjs",
-  "main": "loadingjs.js",
+  "main": "src/loadingjs.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shenglian/loadingjs.git"
